@@ -743,7 +743,7 @@ section {
 
 /* Image treatment to make colors pop vibrantly */
 img {
-  filter: saturate(1.15) contrast(1.05);
+  filter: saturate(0.7) contrast(1.05);
 }
 
 /* Staggered Text Animations */
@@ -1079,7 +1079,7 @@ img {
   height: 100%;
   width: auto;
   object-fit: contain;
-  filter: saturate(1.1) contrast(1.1);
+  filter: saturate(0.7) contrast(1.1);
 }
 
 @keyframes scrollVisuals {
